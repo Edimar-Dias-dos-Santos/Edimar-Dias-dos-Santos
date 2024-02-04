@@ -16,12 +16,12 @@
 
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=donut&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&hide=javascript,html&theme=radical"/>
 </div>
 
 
 
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&hide=javascript,html&theme=radical" width="300" height="200">
+
 
         
 <br>
