@@ -4,9 +4,9 @@
   <a href="https://github.com/Edimar-Dias-dos-Santos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=compact&langs_count=6&theme=tokyonight"/>
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   </a>
+
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
     
 <br>
