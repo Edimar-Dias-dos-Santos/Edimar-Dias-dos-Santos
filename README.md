@@ -41,7 +41,7 @@
   </a>
 </div>
 
-[![Edimar stats](https://github-readme-stats.vercel.app/api/wakatime?username=Edimar-Dias-dos-Santos)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>
