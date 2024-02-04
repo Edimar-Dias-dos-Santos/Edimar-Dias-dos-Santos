@@ -42,7 +42,7 @@
 <p>One of the things that sparked my passion for programming was my admiration for developers John Tobias and Eddie Boom. They changed my life with an incredible entertainment solution called <em>Mortal Kombat</em>! 🎮 That motivated me to learn how to build digital solutions.</p>
 
 
-<img src="imgs/mk.png" alt="Dragão do Mortal Kombat">
+<img src="imgs/mortal_kombat.gif" alt="Dragão do Mortal Kombat">
 
 <p>About me, although I've developed APIs and projects with various rising languages, <strong>Java</strong> is still my favorite <em>BackEnd</em> language. Moreover, I'm a huge fan of <strong>Debian</strong>, due to its incredible stability 🐧. <em>Gnome</em> is my preferred desktop environment, after all, it was created in 1997, the same year I was born! 🎉</p>
 
