@@ -30,6 +30,7 @@
      <img align="center"  title="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<hr>
 ### Explore more of my content:
 
 <div> 
