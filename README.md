@@ -47,4 +47,3 @@
   <p>I'm a passionate software developer. I love to create engaging applications and share my knowledge with the community. Feel free to connect with me on any of the platforms above!</p>
 </details>
 
-![Snake animation](https://github.com/Edimar-Dias-dos-Santos/Edimar-Dias-dos-Santos/blob/output/github-contribution-grid-snake.svg)
