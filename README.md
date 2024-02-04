@@ -56,7 +56,7 @@
 </details>
 
 <h3>MY FRIEND</h3>
-has a message for you...
+has a message for you about clean code...
 
 <br>
 <br>
