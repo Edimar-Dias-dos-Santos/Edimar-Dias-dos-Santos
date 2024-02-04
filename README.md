@@ -11,7 +11,7 @@
 <div align="center">
   <div align="center">
   <a href="https://github.com/formandodev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=radical"/>
+    <img height="500em" src="https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=radical"/>
     </div>
 
   <div align="center">
