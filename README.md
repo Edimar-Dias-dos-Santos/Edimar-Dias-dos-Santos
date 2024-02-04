@@ -38,6 +38,8 @@
   <p>I'm a passionate software developer. I love to create engaging applications and share my knowledge with the community. Feel free to connect with me on any of the platforms above!</p>
 </details>
 
+<hr>
+
 
 <h3>MY FRIEND</h3>
 has a message for you about clean code for you my 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! ...
