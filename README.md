@@ -43,11 +43,7 @@
 
 <br>
 
-<details>
-  <summary>Commits Presentation 🎉</summary>
-  <p>Check out this creative visualization of my commits!</p>
-  <img src="https://ghchart.rshah.org/Edimar-Dias-dos-Santos" alt="Edimar-Dias-dos-Santos's GitHub Chart" />
-</details>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&animate=true)
 
 <details>
   <summary>More about me</summary>
