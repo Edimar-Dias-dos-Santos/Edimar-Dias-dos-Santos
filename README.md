@@ -34,9 +34,8 @@
 
 <div>
   
-### About me:
+### 👋 Hello, World! I'm Edimar! 🚀
 
-  <h2>👋 Hello, World! I'm Edimar! 🚀</h1>
 
 <p>I'm a <strong>passionate programmer</strong> dedicated to the art of coding! 💻 Besides all that I've studied during my graduation, I continue to enhance my skills at home, striving to go far beyond what I've learned during all my courses (yes, I intend to study until the last day of my life! 📚).</p>
 
