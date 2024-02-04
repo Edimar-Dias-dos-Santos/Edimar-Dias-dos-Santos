@@ -42,8 +42,7 @@
 </div>
 
 <br>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&animate=true)
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Edimar-Dias-dos-Santos" alt="Gráfico de Atividade do GitHub de SeuNomeDeUsuário" />
 
 <details>
   <summary>More about me</summary>
