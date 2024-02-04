@@ -8,12 +8,9 @@
 
 
 
-<div>
-  <a href="https://github.com/Edimar-Dias-dos-Santos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=compact&langs_count=6&theme=radical"/>
-  </a>
-</div>
+
 
 
         
