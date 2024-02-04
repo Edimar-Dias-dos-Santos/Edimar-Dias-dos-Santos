@@ -26,9 +26,7 @@
 </div>
  <br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Explore+more+of+my+content+and+contact+me!&center=true&size=25">
-  </a>
+### Explore more of my content:
 
 <div> 
   <a href="https://www.youtube.com/user/yourusername" target="_blank">
