@@ -41,14 +41,8 @@
   </a>
 </div>
 
-<br>
+[![Edimar stats](https://github-readme-stats.vercel.app/api/wakatime?username=Edimar-Dias-dos-Santos)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Edimar-Dias-dos-Santos" alt="Wakatime Activity" />
-  <br>
-  <img src="https://github.com/Edimar-Dias-dos-Santos/Edimar-Dias-dos-Santos/blob/main/images/chart-1.png" alt="Chart 1" />
-  <br>
-  <img src="https://github.com/Edimar-Dias-dos-Santos/Edimar-Dias-dos-Santos/blob/main/images/chart-2.png" alt="Chart 2" />
-  <br>
 
 <details>
   <summary>More about me</summary>
