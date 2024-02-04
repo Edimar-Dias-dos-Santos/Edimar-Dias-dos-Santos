@@ -8,9 +8,8 @@
 
 
 
-   ![Edimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=donut&theme=radical)](https://github.com/Edimar-Dias-dos-Santos/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=radical" width="400" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=compact&theme=radical" width="400" height="200">
 
 
 
