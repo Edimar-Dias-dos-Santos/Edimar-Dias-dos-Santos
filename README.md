@@ -1,6 +1,11 @@
+<div align="center">
+  <h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Edimar+Santos...;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h2>
+</div>
 
-
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50"></h1>
 
 
 <div>
@@ -46,21 +51,15 @@
   </a>
 </div>
 
-<div align="center">
-  <h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Edimar+Santos...;Nice+to+meet+you!&center=true&size=25">
-  </a>
-</h2>
-</div>
 
 <details>
   <summary>More about me</summary>
   <p>I'm a passionate software developer. I love to create engaging applications and share my knowledge with the community. Feel free to connect with me on any of the platforms above!</p>
 </details>
 
+
 <h3>MY FRIEND</h3>
-has a message for you about clean code...
+has a message for you about clean code for you my 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! ...
 
 <br>
 <br>
