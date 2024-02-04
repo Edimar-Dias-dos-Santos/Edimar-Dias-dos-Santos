@@ -50,10 +50,17 @@
 </div>
 
 
-
-
 <details>
   <summary>More about me</summary>
   <p>I'm a passionate software developer. I love to create engaging applications and share my knowledge with the community. Feel free to connect with me on any of the platforms above!</p>
 </details>
+
+<h3>MY FRIEND</h3>
+has a message for you...
+
+<br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+</div>
 
