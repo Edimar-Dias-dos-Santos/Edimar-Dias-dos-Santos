@@ -108,8 +108,6 @@ has a message for you about clean code my 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟
 
 
 
-</br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
 
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
