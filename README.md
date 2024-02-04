@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=donut&theme=radical" width="400" height="300">
  </div>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&hide=javascript,html&theme=radical" width="400" height="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&hide=javascript,html&theme=radical" width="300" height="200">
 
         
 <br>
