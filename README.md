@@ -22,8 +22,8 @@
 
 
 <div style="display: inline_block"><br>
-     <img align="center"  title="Java" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
      <img align="center"  title="SQL"  height="50"  src="imgs/iconeSQL.jpg">
+     <img align="center"  title="Java" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
      <img align="center"  title="TypeScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
      <img align="center"  title="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center"  title="HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
