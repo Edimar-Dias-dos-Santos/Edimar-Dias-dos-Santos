@@ -42,7 +42,13 @@
 </div>
 
 <br>
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Edimar-Dias-dos-Santos" alt="Gráfico de Atividade do GitHub de SeuNomeDeUsuário" />
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Edimar-Dias-dos-Santos" alt="Wakatime Activity" />
+  <br>
+  <img src="https://github.com/Edimar-Dias-dos-Santos/Edimar-Dias-dos-Santos/blob/main/images/chart-1.png" alt="Chart 1" />
+  <br>
+  <img src="https://github.com/Edimar-Dias-dos-Santos/Edimar-Dias-dos-Santos/blob/main/images/chart-2.png" alt="Chart 2" />
+  <br>
 
 <details>
   <summary>More about me</summary>
