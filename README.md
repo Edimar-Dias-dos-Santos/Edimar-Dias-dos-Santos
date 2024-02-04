@@ -23,7 +23,7 @@
 
 <div style="display: inline_block"><br>
      <img align="center"  title="Java" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-     <img align="center"  title="SQL"  height="40"  src="sql.svg">
+     <img align="center"  title="SQL"  height="40"  src="imgs/sql.png">
      <img align="center"  title="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
      <img align="center"  title="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center"  title="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -65,7 +65,6 @@
 <h3>MY FRIEND</h3>
 has a message for you about clean code for you my 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! ...
 
-<br>
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
