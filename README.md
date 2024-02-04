@@ -44,6 +44,12 @@
 <br>
 
 <details>
+  <summary>Commits Presentation 🎉</summary>
+  <p>Check out this creative visualization of my commits!</p>
+  <img src="https://ghchart.rshah.org/Edimar-Dias-dos-Santos" alt="Edimar-Dias-dos-Santos's GitHub Chart" />
+</details>
+
+<details>
   <summary>More about me</summary>
   <p>I'm a passionate software developer. I love to create engaging applications and share my knowledge with the community. Feel free to connect with me on any of the platforms above!</p>
 </details>
