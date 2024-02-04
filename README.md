@@ -42,7 +42,7 @@
 
 
 <h3>MY FRIEND</h3>
-has a message for you about clean code for you my 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! ...
+has a message for you about clean code my 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! ...
 
 <br><br>
 <div align="center">
