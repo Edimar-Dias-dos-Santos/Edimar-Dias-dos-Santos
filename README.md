@@ -26,7 +26,9 @@
 </div>
  
  
-### Explore more of my content:
+### <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Edimar+Santos...;Nice+to+meet+you!&center=true&size=25">
+  </a>
 
 <div> 
   <a href="https://www.youtube.com/user/yourusername" target="_blank">
