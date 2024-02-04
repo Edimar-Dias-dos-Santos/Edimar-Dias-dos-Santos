@@ -51,7 +51,7 @@ has a message for you about clean code my 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟
 
 <hr>
 
-<hr />
+
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
