@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/Edimar-Dias-dos-Santos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=compact&langs_count=6&theme=radical"/>
   </a>
 </div>
 
@@ -68,33 +68,7 @@ has a message for you about clean code for you my 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍
 </div>
 
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
 
-  ```
-  # ♟︎ Chess.com Ratings Chart #
   
-  Blitz Rating
- 1471.00  ┤                                                                                                ╭╮╭
- 1461.12  ┤                                                                            ╭╮               ╭──╯╰╯
- 1451.25  ┤                                                                           ╭╯╰╮ ╭╮          ╭╯
- 1441.38  ┤                                                                    ╭╮╭──╮╭╯  ╰╮│╰─╮╭╮  ╭─╮╭╯
- 1431.50  ┤                                             ╭╮                   ╭─╯╰╯  ╰╯    ╰╯  ╰╯╰╮╭╯ ╰╯
- 1421.62  ┤                                            ╭╯╰╮                 ╭╯                   ╰╯
- 1411.75  ┤                                         ╭╮╭╯  ╰╮╭─╮            ╭╯
- 1401.88  ┤                               ╭╮       ╭╯╰╯    ╰╯ ╰╮╭╮    ╭╮╭──╯
- 1392.00  ┤                             ╭─╯╰╮  ╭───╯           ╰╯╰╮   │╰╯
- 1382.12  ┤                           ╭─╯   ╰╮╭╯                  ╰─╮╭╯
- 1372.25  ┤                          ╭╯      ╰╯                     ╰╯
- 1362.38  ┤                         ╭╯
- 1352.50  ┤                        ╭╯
- 1342.62  ┤   ╭╮  ╭╮            ╭╮╭╯
- 1332.75  ┼╮╭─╯╰──╯╰─╮╭─╮╭╮  ╭──╯╰╯
- 1322.88  ┤╰╯        ╰╯ ╰╯╰──╯
- 1313.00  ┤
 
-Chart last updated - Sun Feb  4 13:02:17 EST 2024  
-  ```
+
