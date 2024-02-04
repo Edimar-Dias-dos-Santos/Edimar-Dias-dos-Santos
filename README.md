@@ -1,10 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Edimar+Santos...;Nice+to+meet+you!&center=true&size=25">
-  </a>
-</h1>
 
 <div>
   <a href="https://github.com/Edimar-Dias-dos-Santos">
@@ -49,6 +45,13 @@
   </a>
 </div>
 
+<div align="center">
+  <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Edimar+Santos...;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
+</div>
 
 <details>
   <summary>More about me</summary>
