@@ -31,6 +31,7 @@
 </div>
 
 <hr>
+
 ### Explore more of my content:
 
 <div> 
