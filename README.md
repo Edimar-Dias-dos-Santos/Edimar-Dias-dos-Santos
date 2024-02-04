@@ -13,20 +13,13 @@
   <a href="https://github.com/formandodev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=radical"/>
     </div>
-</br>
+
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=donut&theme=radical"/>
 </div>
 
 
 
-
-
-  
- <div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Edimar-Dias-dos-Santos&show_icons=true&theme=radical" width="400" height="300">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&layout=donut&theme=radical" width="400" height="300">
- </div>
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edimar-Dias-dos-Santos&hide=javascript,html&theme=radical" width="300" height="200">
 
