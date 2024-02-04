@@ -51,6 +51,13 @@ has a message for you about clean code for you my 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍
 
 <hr>
 
+<hr />
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+
+<hr>
+
 ### Explore more of my content:
 
 <div> 
