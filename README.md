@@ -32,12 +32,23 @@
 
 <hr>
 
+<div>
+  ### About me:
 
-<details>
-  <summary>More about me</summary>
-  <p>I'm a passionate software developer. I love to create engaging applications and share my knowledge with the community. Feel free to connect with me on any of the platforms above!</p>
-</details>
+  <h2>👋 Hello, World! I'm Edimar! 🚀</h1>
 
+<p>I'm a <strong>passionate programmer</strong> dedicated to the art of coding! 💻 Besides all that I've studied during my graduation, I continue to enhance my skills at home, striving to go far beyond what I've learned during all my courses (yes, I intend to study until the last day of my life! 📚).</p>
+
+<p>One of the things that sparked my passion for programming was my admiration for developers John Tobias and Eddie Boom. They changed my life with an incredible entertainment solution called <em>Mortal Kombat</em>! 🎮 That motivated me to learn how to build digital solutions.</p>
+
+<!-- Aqui está o código para a imagem do dragão do Mortal Kombat -->
+<img src="URL_DA_IMAGEM" alt="Dragão do Mortal Kombat">
+
+<p>About me, although I've developed APIs and projects with various rising languages, <strong>Java</strong> is still my favorite <em>BackEnd</em> language. Moreover, I'm a huge fan of <strong>Debian</strong>, due to its incredible stability 🐧. <em>Gnome</em> is my preferred desktop environment, after all, it was created in 1997, the same year I was born! 🎉</p>
+
+<p>👊 FATALITY! 🎉</p>
+
+</div>
 <hr>
 
 
