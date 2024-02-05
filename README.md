@@ -102,8 +102,5 @@ has a message for you about clean code my 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟
 
 
 
-
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
-  
-
+![Animação de cobra](https://github.com/Edimar-Dias-dos-Santos/Edimar-Dias-dos-Santos/blob/output/github-contribution-grid-snake.svg)
 
